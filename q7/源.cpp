@@ -44,5 +44,5 @@ int main()
 	}
 	cout << "总价格为" << endl;
 	cout<<sum<<endl;
-	system("pause");
+	//system("pause");
 }
